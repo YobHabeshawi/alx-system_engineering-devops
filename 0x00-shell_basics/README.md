@@ -1,0 +1,1 @@
+This script done for printing the real path of the file
