@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$PWD/${1##*/}" \
+echo "$realpath 0-current_working_directory" \
