@@ -1,0 +1,1 @@
+This one is about reading etc /profile and another bash file
